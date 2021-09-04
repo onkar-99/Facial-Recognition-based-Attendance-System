@@ -10,3 +10,6 @@ The Facenet Keras weights can be downloaded from [here](https://drive.google.com
 
 There is also a well functional GUI which has three options to either Add a new record, View Attendance or Take Attendane. Add record can be used to add an employee/student details along with their pictures for face recognition. 
 Attendance can be viewed on GUI by entering the unique ID and Pin of the person. 
+
+
+## Face recognition Output
