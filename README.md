@@ -1,5 +1,5 @@
 # Facial-Recognition-based-Attendance-System
-This is a Facenet implementation for Face Recognition which recognises the employees/students in a video feed and marks the attendance accordingly. 
+This is a Facenet based implementation for Face Recognition which recognises the employees/students in a video feed and marks the attendance accordingly. 
 
 # Facenet:
 FaceNet is a face recognition pipeline that learns mapping from faces to a position in a multidimensional space where the distance between points directly correspond to a measure of face similarity.
