@@ -13,3 +13,4 @@ Attendance can be viewed on GUI by entering the unique ID and Pin of the person.
 
 
 ## Face recognition Output
+![This is an image](/Output-images/Face_recog.jpeg)
